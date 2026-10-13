@@ -2,8 +2,8 @@
 A website made for students to test their basic skills in algebra.
 
 ##Features 
-* ** Calculator ** A user friendly calculator used for simple ** BODMASS computation **
-* ** Test Questions ** Simply used to test students response time
+* **Calculator** A user friendly calculator used for simple **BODMASS computation**
+* **Test Questions** Simply used to test students response time
 
 ## Build with
 * **HTML** The skeleton of the project
