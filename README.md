@@ -1,7 +1,7 @@
 # A Student's website
 A website made for students to test their basic skills in algebra.
 
-##Features 
+## Features 
 * **Calculator** A user friendly calculator used for simple **BODMASS computation**
 * **Test Questions** Simply used to test students response time
 
