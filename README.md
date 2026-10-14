@@ -1,9 +1,9 @@
 # A Student's website
-A website made for students to test their basic skills in algebra.
+A website made for students to test their capacities when faced with external exams.
 
 ## Features 
 * **Calculator** A user friendly calculator used for simple **BODMASS computation**
-* **Test Questions** Simply used to test students response time
+* **Test Questions** Simply used to compare student's exam papers and permits students to have an altenate view of a subject.
 
 ## Build with
 * **HTML** The skeleton of the project
