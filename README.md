@@ -1,3 +1,4 @@
+[Let's get to work](index.html) if you prefer/si vous preféré [Mettons nous au travail](index_fr.html)
 # A Student's website
 A website made for students to test their capacities when faced with external exams.
 
