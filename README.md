@@ -13,5 +13,5 @@ A website made for students to test their capacities when faced with external ex
 
 ## How to use it
 This site was made use friendly and so do not require specific skills for usage .
-But for fun just try compute a false statement and see the output 😁
+But for fun just try compute a false statement and see the output 
 
